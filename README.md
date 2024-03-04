@@ -9,6 +9,11 @@ This project is a 2D strategic game developed with Python and Pygame, where two 
 - **Dynamic Wall System:** Strategically place walls to block your opponent's path or protect your own route to victory.
 - **Customizable Settings:** Adjust game settings to modify gameplay dynamics, including board size, wall count, and AI difficulty.
 
+![Picture1](https://github.com/brankovicvukasin/Artificial-Intelligence-Software-Project/blob/main/Picture1.jpg "pic1")
+
+![Picture2](https://github.com/brankovicvukasin/Artificial-Intelligence-Software-Project/blob/main/Picture2.jpg "pic2")
+
+
 ## Installation
 
 1. **Prerequisites:** Ensure you have Python 3.x and Pygame installed on your system. If not, install them using the following commands:
