@@ -1,10 +1,10 @@
 # Blockade: A Strategic 2D Pygame
 
-This project is a 2D strategic game developed with Python and Pygame, where two players navigate through obstacles to reach the finish line. Drawing inspiration from classic board games and enhanced with a digital twist, Blockade offers engaging gameplay, strategic depth, and AI challenges.
+This project is a 2D strategic game developed with Python and Pygame, where two players navigate through obstacles to reach the finish line. This project is developed for the Artificial Intelligence course at the University of Niš, Faculty of Electronic Engineering, Department of Computer Science. This 2D game is based on the popular board game called Blockade. Player can play against another player or against AI opponent.
 
 ## Features
 
-- **Engaging 2D Gameplay:** Experience the thrill of strategy and planning in a competitive setting, with a clear and intuitive interface.
+- **Engaging 2D Gameplay:** Clear and intuitive interface for experience of the thrill of strategy and planning in a competitive setting.
 - **Advanced AI Opponent:** Test your skills against a challenging AI, powered by a custom algorithm designed to simulate competitive gameplay.
 - **Dynamic Wall System:** Strategically place walls to block your opponent's path or protect your own route to victory.
 - **Customizable Settings:** Adjust game settings to modify gameplay dynamics, including board size, wall count, and AI difficulty.
